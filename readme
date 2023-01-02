@@ -1,5 +1,5 @@
 This repository is for learning Rust 
-#Installation
+###Installation
 Mac OS or Linux
 $ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
 $ xcode-select –install
@@ -10,21 +10,21 @@ The Windows 10 or 11 SDK
 The English language pack component, along with any other language pack of your choosing
 Install rust using https://www.rust-lang.org/tools/install
 
-# Check the version
+### Check the version
 rustc –version
 # update Rust
 rustup update
 # uninstall Rust
 rustup self uninstall
 
-# Rust Hello world
+### Rust Hello world
 Create project directory
 Open main.rs file in the choice of your editor 
     fn main() {
          println!("Hello, world!");
       }
 
-On mac Os or Linux
+##On mac Os or Linux
 
 $ rustc main.rs 
 $ ./main 
