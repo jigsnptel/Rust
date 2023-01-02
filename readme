@@ -1,5 +1,5 @@
 This repository is for learning Rust 
-###Installation
+Bold Installation
 Mac OS or Linux
 $ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
 $ xcode-select –install
